@@ -18,6 +18,7 @@
 
 ## Code Written By Team
 * cleaning dataset
+  * filtering out noisy or unwanted data
 * preprocessing script
 * creating vectors of GloVe embedding averages as features
 * generating bag of words
